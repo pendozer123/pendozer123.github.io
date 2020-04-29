@@ -33,7 +33,7 @@
                 // as long as it's not one of the above reserved names.
             }
         });
-})('API KEY GOES HERE');
+})('a3f1145a-f772-496e-728c-1fe0c7948557');
 </script>
 //EU Pendo Install
 
